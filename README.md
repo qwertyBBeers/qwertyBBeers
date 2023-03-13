@@ -1,7 +1,4 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=Playdata)
-</div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
