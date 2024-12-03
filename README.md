@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/ROS2-D24939?style=flat-square&logo=ROS2&logoColor=white"/></a>&nbsp 
 </p>
 
+<h4 align="center">Please contact to me gudgh1630@unist.ac.kr </h4>
+
 <!--
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
