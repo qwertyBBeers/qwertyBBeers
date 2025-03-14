@@ -2,7 +2,7 @@
 
 <h4 align="center"> I want to be a Specialist at </h4>
 
-<h4 align="center">🔭 Motion Planning with Reinforcement Learning   🌱 Architecture   👯 Outdoor Navigation</h4>
+<h4 align="center">🔭 Motion Planning with Reinforcement Learning  🌱 Architecture  🌱 Vision-language model  👯 Active sensing</h4>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
