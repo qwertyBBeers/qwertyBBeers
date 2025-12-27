@@ -1,4 +1,4 @@
-<h4 align="center">Hi I'm park Hyoung Ho, Research at ASL in UNIST </h4>
+<h4 align="center">Hi I'm park Hyoung Ho, Researcher at FairLab in KAIST </h4>
 
 <h4 align="center"> I want to be a Specialist at </h4>
 
