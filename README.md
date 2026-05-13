@@ -31,6 +31,7 @@ On the research side, I am currently a **Researcher at the FAIR Lab, KAIST**, an
 ## 🛠️ Tech Stack
 
 ### 🤖 Robotics & Navigation
+![ROS1](https://img.shields.io/badge/ROS1-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Navigation](https://img.shields.io/badge/Navigation-4285F4?style=for-the-badge)
 ![Active Sensing](https://img.shields.io/badge/Active_Sensing-1E1E1E?style=for-the-badge)
@@ -38,7 +39,7 @@ On the research side, I am currently a **Researcher at the FAIR Lab, KAIST**, an
 
 ### 🧠 AI & Perception
 ![VLM & VLA](https://img.shields.io/badge/VLM%20%26%20VLA-1E1E1E?style=for-the-badge)
-![DRL](https://img.shields.io/badge/Deep_Reinforcement_Learning-76B900?style=for-the-badge)
+![DRL](https://img.shields.io/badge/DRL-76B900?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -53,7 +54,7 @@ On the research side, I am currently a **Researcher at the FAIR Lab, KAIST**, an
 
 ## 🎯 Featured Projects
 
-### 🧪 Semantic-GSL: Semantically Guided Gas Source Localization
+### 🤖 Semantic-GSL: Semantically Guided Gas Source Localization with Vision-Language Models
 > **VLM-integrated Bayesian Inference for Intelligent Exploration**
 
 - **Perception**: Designed a 2-stage VLM framework (Grounding DINO + CLIP) to identify suspicious gas sources from natural language inputs.
@@ -92,17 +93,6 @@ On the research side, I am currently a **Researcher at the FAIR Lab, KAIST**, an
 - 🥇 **1st Prize (Grand Prize)** — AI-X Robot Startup Idea Competition (2023)
 - 🏅 **Innovation Award Honoree** — CES 2023 Robotics Category (MetatwinBot)
 - 🥉 **Bronze Prize** — Creative Capstone Design Competition (Hanyang Univ, 2023)
-- 🏅 **National Kendo Exchange Award** — Represented South Korea in youth exchange matches with Japan.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qwertyBBeers&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyBBeers&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
 ---
 
 ## 📫 Contact
@@ -110,8 +100,4 @@ On the research side, I am currently a **Researcher at the FAIR Lab, KAIST**, an
 <p>
   📧 📧 <a href="mailto:gudgh1630@gmail.com"><b>gudgh1630@gmail.com</b></a><br/>
   💼 LinkedIn — <a href="https://www.linkedin.com/in/hmue/"><b>linkedin.com/in/hyoungho-park</b></a><br/>
-</p>
-
-<p align="center">
-  <i>"Persistence of an athlete, precision of an engineer."</i>
 </p>
