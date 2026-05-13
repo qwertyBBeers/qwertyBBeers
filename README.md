@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:gudgh1630@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/hmue"><img src="https://img.shields.io/badge/LinkedIn-Hyoungho%20Park-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hmue/"><img src="https://img.shields.io/badge/LinkedIn-Hyoungho%20Park-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/qwertyBBeers"><img src="https://img.shields.io/badge/GitHub-Hyoungho--Park-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
@@ -108,8 +108,8 @@ On the research side, I am currently a **Researcher at the FAIR Lab, KAIST**, an
 ## 📫 Contact
 
 <p>
-  📧 <b>gudgh1630@gmail.com</b><br/>
-  💼 LinkedIn — <a href="www.linkedin.com/in/hmue">linkedin.com/in/hyoungho-park</a><br/>
+  📧 📧 <a href="mailto:gudgh1630@gmail.com"><b>gudgh1630@gmail.com</b></a><br/>
+  💼 LinkedIn — <a href="https://www.linkedin.com/in/hmue/"><b>linkedin.com/in/hyoungho-park</b></a><br/>
 </p>
 
 <p align="center">
