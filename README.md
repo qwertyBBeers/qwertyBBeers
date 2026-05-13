@@ -1,26 +1,30 @@
 <h1 align="center">Hi 👋 I'm Hyoungho Park</h1>
 
 <p align="center">
-  <b>Robotics Researcher · Autonomous Navigation · VLM/VLA Specialist</b><br/>
+  <b>Robotics Researcher · Autonomous Navigation · Physical AI</b><br/>
   Bridging high-level semantic reasoning with robust robotic exploration in unstructured environments.
 </p>
 
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hyoungho-park/"><img src="https://img.shields.io/badge/LinkedIn-Hyoungho%20Park-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/your-github-id"><img src="https://img.shields.io/badge/GitHub-Hyoungho--Park-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:gudgh1630@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/hmue"><img src="https://img.shields.io/badge/LinkedIn-Hyoungho%20Park-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/qwertyBBeers"><img src="https://img.shields.io/badge/GitHub-Hyoungho--Park-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I am a **Robotics Researcher** at the **FAIR Lab, KAIST**, where I focus on the intersection of **Vision-Language Models (VLM)** and **Autonomous Navigation**. My goal is to develop robots that don't just "see" but "understand" their environment to perform complex tasks.
+I work on the **full stack of autonomous robotics** — from **multi-modal sensor fusion** for perception to **Physical AI** for decision-making and high-precision **autonomous control** in unstructured environments.
 
-- 🎓 **M.S. in Mechanical Engineering** from **UNIST** (2026).
-- 🇬🇧 Upcoming **PhD in Aerospace Engineering** at the **University of Manchester** (PDS Scholar, 2026~).
-- 🤺 **Former Kendo Athlete**: I bring the persistence and execution skills of a national-level athlete into the world of engineering.
-- 👨‍🏫 **Mentor**: 3+ years of experience teaching robotics to the next generation of engineers.
+Over the past few years, I have bridged the gap between high-level semantic reasoning and real-world robot deployment:
+
+- 👁️ **Perception & Sensor Fusion**: Developed **VLM-based perception** frameworks using Grounding DINO and CLIP to identify potential hazards by understanding functional context.
+- 🧠 **Physical AI**: Designed **Vision-Language-Action (VLA)** models for autonomous navigation. I developed **'Semantic-GSL'**, integrating high-level semantic representations into probabilistic belief states to enable robots to understand complex spaces.
+- 🕹️ **Navigation & Control**: Expert in **Active Sensing**. I proposed the **Stochastic Information-driven Particle Filter (SIPF)**, which effectively **guides** particles to optimize exploration efficiency.
+- 🏗️ **System Architecture**: Built multiple robot platforms—from the **MetatwinBot** (CES 2023 Honoree) to industrial service robots like **HairD** and **GiftyBot**, covering ROS1/ROS2 architecture and hardware integration.
+
+On the research side, I am currently a **Researcher at the FAIR Lab, KAIST**, and I recently completed my **M.S. in Mechanical Engineering at UNIST (GPA 4.2/4.3)**. My thesis focused on **VLM-integrated Semantic-GSL**, proposing an information-theoretic approach to guide exploration in unstructured environments.
 
 ---
 
@@ -28,15 +32,14 @@ I am a **Robotics Researcher** at the **FAIR Lab, KAIST**, where I focus on the 
 
 ### 🤖 Robotics & Navigation
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![SLAM](https://img.shields.io/badge/SLAM-1E1E1E?style=for-the-badge)
 ![Navigation](https://img.shields.io/badge/Navigation-4285F4?style=for-the-badge)
-![VLA](https://img.shields.io/badge/VLA-1E1E1E?style=for-the-badge)
 ![Active Sensing](https://img.shields.io/badge/Active_Sensing-1E1E1E?style=for-the-badge)
+![SLAM](https://img.shields.io/badge/SLAM-1E1E1E?style=for-the-badge)
 
 ### 🧠 AI & Perception
+![VLM & VLA](https://img.shields.io/badge/VLM%20%26%20VLA-1E1E1E?style=for-the-badge)
+![DRL](https://img.shields.io/badge/Deep_Reinforcement_Learning-76B900?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![VLM](https://img.shields.io/badge/VLM-1E1E1E?style=for-the-badge)
-![Diffusion Models](https://img.shields.io/badge/Diffusion_Models-1E1E1E?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -50,40 +53,45 @@ I am a **Robotics Researcher** at the **FAIR Lab, KAIST**, where I focus on the 
 
 ## 🎯 Featured Projects
 
-### 🧪 Semantic-GSL (Gas Source Localization)
-> **VLM-integrated Probabilistic Belief States for Efficient Exploration**
+### 🧪 Semantic-GSL: Semantically Guided Gas Source Localization
+> **VLM-integrated Bayesian Inference for Intelligent Exploration**
 
-- Developed a novel framework for **Active Sensing** in unstructured environments.
-- Integrated high-level semantic representations from **VLM** into probabilistic belief states, drastically enhancing exploration efficiency.
-- Utilized a **Stochastic Information-driven Particle Filter (SIPF)** to guide particles effectively toward the source.
+- **Perception**: Designed a 2-stage VLM framework (Grounding DINO + CLIP) to identify suspicious gas sources from natural language inputs.
+- **Control**: Implemented an information-theoretic path planner and **SIPF** to guide exploration.
+- **Results**: Achieved a **44% increase in search success rate** and a **21% reduction in travel distance** in complex indoor environments.
+- `Stack`: ROS2 · PyTorch · Grounding DINO · CLIP · Gazebo
 
-### 🚜 MetatwinBot
+### 🚜 MetatwinBot: Digital Twin Service Robot
 > **CES 2023 Innovation Award Honoree**
 
-- Developed a digital twin-based robot for the elderly and vulnerable.
-- Focused on system architecture and autonomous navigation as an undergraduate researcher.
-- Awarded for technical innovation in the **Robotics** category.
+- Built a **Digital Twin (CPS)** system synchronizing a physical mobile robot and manipulator with a Unity virtual environment in real-time.
+- Developed human-following algorithms using LiDAR-camera fusion (YOLO).
+- Designed the end-to-end system architecture for remote care and autonomous navigation.
+- `Stack`: ROS1 · Unity · YOLO · LiDAR-Camera Fusion
 
-### 🚀 Startup CAPTAIN — Founder & SW Lead
-> **Industrial Service Robots: HairD & GiftyBot**
+### 🚀 HairD: Industrial Salon Assistant Robot
+> **2023 AI-X Robot Startup Idea Competition - 1st Prize (Grand Prize)**
 
-- **HairD**: An assistant robot designed for hair salons to optimize workflow.
-- **GiftyBot**: A courier delivery robot optimized for last-mile logistics.
-- Led the software team in developing end-to-end robotics stacks from prototype to field testing.
+- Led the software team in developing a specialized service robot for salon cleaning and management tasks.
+- Implemented **LiDAR clustering** and geometric analysis to generate obstacle-free cleaning paths.
+- Validated performance through **one month of actual field testing** in a professional salon.
+- `Stack`: ROS2 · Cartographer · LiDAR Clustering · Qt
 
----
+### 🧠 B-MCTS: Bayesian Monte Carlo Tree Search for Urban Search
+> **Information-Theoretic Source Search in Complex Environments**
 
-## 📰 Selected Publications & Presentations
-
-- **IROS 2025 Active Perception Workshop** — *Presentation on Active Sensing and Exploration Frameworks.*
-- **Research on Hazard Identification** — *VLM-based framework for identifying potential hazards based on functional and environmental context.*
+- Proposed a pruning-based MCTS to minimize computational costs for gas source term estimation.
+- Achieved a **38% reduction in search time** while solving local minima issues via probabilistic action selection.
+- `Stack`: Python · Gazebo · MATLAB · Particle Filter
 
 ---
 
 ## 🏆 Honors & Awards
 
-- 🏅 **President’s Doctoral Scholar (PDS)** — University of Manchester (2026)
-- 🏅 **CES Innovation Award Honoree** — Robotics Category (MetatwinBot, 2023)
+- 🥈 **2nd Place** — IEEE ICASSP 2025 Grand Challenge (Hyderabad, India) 
+- 🥇 **1st Prize (Grand Prize)** — AI-X Robot Startup Idea Competition (2023)
+- 🏅 **Innovation Award Honoree** — CES 2023 Robotics Category (MetatwinBot)
+- 🥉 **Bronze Prize** — Creative Capstone Design Competition (Hanyang Univ, 2023)
 - 🏅 **National Kendo Exchange Award** — Represented South Korea in youth exchange matches with Japan.
 
 ---
@@ -91,25 +99,17 @@ I am a **Robotics Researcher** at the **FAIR Lab, KAIST**, where I focus on the 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-id&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=qwertyBBeers&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwertyBBeers&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
-
----
-
-## 🤝 Open to Collaborate On
-
-- **Autonomous Exploration**: Gas source localization, semantic navigation, and active sensing.
-- **Foundation Models for Robotics**: Applying VLM/VLA to real-world robot control.
-- **Aerospace Robotics**: Future-ready navigation for complex environments.
 
 ---
 
 ## 📫 Contact
 
 <p>
-  📧 <b>your-email@example.com</b><br/>
-  💼 LinkedIn — <a href="https://www.linkedin.com/in/hyoungho-park/">linkedin.com/in/hyoungho-park</a><br/>
+  📧 <b>gudgh1630@gmail.com</b><br/>
+  💼 LinkedIn — <a href="www.linkedin.com/in/hmue">linkedin.com/in/hyoungho-park</a><br/>
 </p>
 
 <p align="center">
