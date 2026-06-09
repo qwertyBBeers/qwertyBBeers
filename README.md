@@ -21,7 +21,7 @@ Over the past few years, I have bridged the gap between high-level semantic reas
 
 - 👁️ **Perception & Sensor Fusion**: Developed **VLM-based perception** frameworks using Grounding DINO and CLIP to identify potential hazards by understanding functional context.
 - 🧠 **Physical AI**: Designed **Vision-Language-Action (VLA)** models for autonomous navigation. I developed **'Semantic-GSL'**, integrating high-level semantic representations into probabilistic belief states to enable robots to understand complex spaces.
-- 🕹️ **Navigation & Control**: Expert in **Active Sensing**. I proposed the **Stochastic Information-driven Particle Filter (SIPF)**, which effectively **guides** particles to optimize exploration efficiency.
+- 🕹️ **Navigation & Control**: Expert in **Active Sensing**. I proposed the **Semantic-Informed Particle Filter (SIPF)**, which effectively **guides** particles to optimize exploration efficiency.
 - 🏗️ **System Architecture**: Built multiple robot platforms—from the **MetatwinBot** (CES 2023 Honoree) to industrial service robots like **HairD** and **GiftyBot**, covering ROS1/ROS2 architecture and hardware integration.
 
 On the research side, I am currently a **Researcher at the FAIR Lab, KAIST**, and I recently completed my **M.S. in Mechanical Engineering at UNIST (GPA 4.2/4.3)**. My thesis focused on **VLM-integrated Semantic-GSL**, proposing an information-theoretic approach to guide exploration in unstructured environments.
@@ -75,7 +75,7 @@ On the research side, I am currently a **Researcher at the FAIR Lab, KAIST**, an
 
 - Led the software team in developing a specialized service robot for salon cleaning and management tasks.
 - Implemented **LiDAR clustering** and geometric analysis to generate obstacle-free cleaning paths.
-- Validated performance through **one month of actual field testing** in a professional salon.
+- Validated performance through **two weeks of actual field testing** in a professional salon.
 - `Stack`: ROS2 · Cartographer · LiDAR Clustering · Qt
 
 ### 🧠 B-MCTS: Bayesian Monte Carlo Tree Search for Urban Search
