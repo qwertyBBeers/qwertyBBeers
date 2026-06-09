@@ -24,7 +24,7 @@ Over the past few years, I have bridged the gap between high-level semantic reas
 - 🕹️ **Navigation & Control**: Expert in **Active Sensing**. I proposed the **Semantic-Informed Particle Filter (SIPF)**, which effectively **guides** particles to optimize exploration efficiency.
 - 🏗️ **System Architecture**: Built multiple robot platforms—from the **MetatwinBot** (CES 2023 Honoree) to industrial service robots like **HairD** and **GiftyBot**, covering ROS1/ROS2 architecture and hardware integration.
 
-On the research side, I am currently a **Researcher at the FAIR Lab, KAIST**, and I recently completed my **M.S. in Mechanical Engineering at UNIST (GPA 4.2/4.3)**. My thesis focused on **VLM-integrated Semantic-GSL**, proposing an information-theoretic approach to guide exploration in unstructured environments.
+On the research side, I am currently a **Researcher at the FAIR Lab, KAIST**, and I recently completed my **M.S. in Mechanical Engineering at UNIST (GPA 4.2/4.3)**. My thesis focused on **Autonomous Exploration and Active Sensing**, proposing an information-theoretic approach to guide exploration in unstructured environments.
 
 ---
 
